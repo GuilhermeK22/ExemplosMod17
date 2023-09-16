@@ -1,2 +1,4 @@
-package generics;public interface ICarro {
+package generics;
+
+public interface Fruta {
 }

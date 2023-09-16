@@ -1,2 +1,4 @@
-package generics;public class Laranja {
+package generics;
+
+public class Laranja implements Fruta{
 }

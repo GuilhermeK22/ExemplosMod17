@@ -1,2 +1,4 @@
-package generics;public class Honda {
+package generics;
+
+public class Banana implements Fruta {
 }
